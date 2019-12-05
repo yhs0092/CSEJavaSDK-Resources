@@ -18,4 +18,5 @@ CSEJavaSDK，基于[ServiceComb-Java-Chassis](https://github.com/apache/servicec
 
 - [ServiceComb 官网](http://servicecomb.apache.org/cn/)
 - [CSE API文档](https://support.huaweicloud.com/api-servicestage/servicestage_api_0009.html)
+- [Open Source Guides](https://opensource.guide/zh-cn/)
 
